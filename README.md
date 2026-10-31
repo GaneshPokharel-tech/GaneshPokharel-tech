@@ -43,6 +43,31 @@ Here are some ideas to get you started:
 
 ---
 
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 💻 Programming Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 AI & Machine Learning
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6C3FC5?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-007ACC?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+
+### ⚡ Other Areas
+
+![AI Automation](https://img.shields.io/badge/AI_Automation-0A9396?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-334155?style=for-the-badge)
+
+</div>
+
+---
+
+
 <div align="center">
 
 ### ✨ Thanks for visiting my profile!
