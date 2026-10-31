@@ -34,26 +34,54 @@
       .category {
         font-family: Arial, Helvetica, sans-serif;
         font-size: 12px;
-        letter-spacing: 1.7px;
+        letter-spacing: 1.4px;
         fill: #6E8299;
       }
 
       .status {
         font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        letter-spacing: 1px;
+        font-size: 10px;
+        letter-spacing: 0.7px;
         fill: #64748B;
       }
+
+      .completed {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        fill: #047857;
+      }
     </style>
+
+    <g id="card">
+      <rect width="438" height="150"
+            rx="14"
+            fill="url(#card-bg)"
+            stroke="#DCE5EF"
+            stroke-width="1.2"/>
+
+      <rect x="0.7" y="0.7"
+            width="436.6" height="148.6"
+            rx="13"
+            fill="none"
+            stroke="#0891B2"
+            stroke-width="1.4">
+        <animate attributeName="opacity"
+                 values="0.08;0.25;0.08"
+                 dur="7s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </g>
   </defs>
 
-  <!-- MAIN BACKGROUND -->
+  <!-- Light background -->
   <rect width="940"
         height="538"
         rx="18"
         fill="#F3F7FB"/>
 
-  <!-- SUBTLE GRID -->
+  <!-- Subtle grid -->
   <path d="M0 134.5 H940 M0 269 H940 M0 403.5 H940"
         stroke="#E2EAF3"
         stroke-width="0.7"/>
@@ -65,50 +93,25 @@
 
   <!-- 01: QAOPS AGENT -->
   <g transform="translate(22 22)">
+    <use href="#card"/>
 
-    <rect width="438"
-          height="150"
-          rx="14"
-          fill="url(#card-bg)"
-          stroke="#DCE5EF"
-          stroke-width="1.2"/>
-
-    <rect x="0.7" y="0.7"
-          width="436.6" height="148.6"
-          rx="13"
-          fill="none"
-          stroke="#0891B2"
-          stroke-width="1.4">
-      <animate attributeName="opacity"
-               values="0.08;0.25;0.08"
-               dur="7s"
-               begin="0s"
-               repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="24" y="0"
-          width="54" height="2"
-          rx="1"
-          fill="url(#accent)">
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
       <animate attributeName="x"
                values="24;360;24"
-               dur="9s"
-               begin="0s"
+               dur="9s" begin="0s"
                repeatCount="indefinite"/>
     </rect>
 
     <text x="24" y="34" class="category">
-      01 / AGENTIC QUALITY ENGINEERING
+      01 / AGENTIC QA
     </text>
 
-    <circle cx="409" cy="30"
-            r="4"
-            fill="#0891B2">
-      <animate attributeName="opacity"
-               values="0.3;1;0.3"
-               dur="3s"
-               repeatCount="indefinite"/>
-    </circle>
+    <text x="414" y="34"
+          text-anchor="end"
+          class="status">
+      IN DEVELOPMENT
+    </text>
 
     <text x="24" y="70" class="title">
       qaops-agent
@@ -121,41 +124,18 @@
     <text x="24" y="128" class="description">
       Regression detection · QA automation
     </text>
-
   </g>
 
 
   <!-- 02: EVIDHARA -->
   <g transform="translate(480 22)">
+    <use href="#card"/>
 
-    <rect width="438"
-          height="150"
-          rx="14"
-          fill="url(#card-bg)"
-          stroke="#DCE5EF"
-          stroke-width="1.2"/>
-
-    <rect x="0.7" y="0.7"
-          width="436.6" height="148.6"
-          rx="13"
-          fill="none"
-          stroke="#0891B2"
-          stroke-width="1.4">
-      <animate attributeName="opacity"
-               values="0.08;0.25;0.08"
-               dur="7s"
-               begin="1.5s"
-               repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="24" y="0"
-          width="54" height="2"
-          rx="1"
-          fill="url(#accent)">
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
       <animate attributeName="x"
                values="24;360;24"
-               dur="9s"
-               begin="1.5s"
+               dur="9s" begin="1.5s"
                repeatCount="indefinite"/>
     </rect>
 
@@ -163,15 +143,11 @@
       02 / LEGAL INTELLIGENCE
     </text>
 
-    <circle cx="409" cy="30"
-            r="4"
-            fill="#0891B2">
-      <animate attributeName="opacity"
-               values="0.3;1;0.3"
-               dur="3s"
-               begin="0.75s"
-               repeatCount="indefinite"/>
-    </circle>
+    <text x="414" y="34"
+          text-anchor="end"
+          class="status">
+      IN DEVELOPMENT
+    </text>
 
     <text x="24" y="70" class="title">
       evidhara
@@ -182,43 +158,20 @@
     </text>
 
     <text x="24" y="128" class="description">
-      Precedent analysis · Evidence workflows
+      Precedent and evidence workflows
     </text>
-
   </g>
 
 
   <!-- 03: GIVANTA -->
   <g transform="translate(22 194)">
+    <use href="#card"/>
 
-    <rect width="438"
-          height="150"
-          rx="14"
-          fill="url(#card-bg)"
-          stroke="#DCE5EF"
-          stroke-width="1.2"/>
-
-    <rect x="0.7" y="0.7"
-          width="436.6" height="148.6"
-          rx="13"
-          fill="none"
-          stroke="#0891B2"
-          stroke-width="1.4">
-      <animate attributeName="opacity"
-               values="0.08;0.25;0.08"
-               dur="7s"
-               begin="3s"
-               repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="24" y="0"
-          width="54" height="2"
-          rx="1"
-          fill="url(#accent)">
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
       <animate attributeName="x"
                values="24;360;24"
-               dur="9s"
-               begin="3s"
+               dur="9s" begin="3s"
                repeatCount="indefinite"/>
     </rect>
 
@@ -226,15 +179,11 @@
       03 / AI-POWERED SAAS
     </text>
 
-    <circle cx="409" cy="30"
-            r="4"
-            fill="#0891B2">
-      <animate attributeName="opacity"
-               values="0.3;1;0.3"
-               dur="3s"
-               begin="1.5s"
-               repeatCount="indefinite"/>
-    </circle>
+    <text x="414" y="34"
+          text-anchor="end"
+          class="status">
+      IN DEVELOPMENT
+    </text>
 
     <text x="24" y="70" class="title">
       Givanta
@@ -247,41 +196,18 @@
     <text x="24" y="128" class="description">
       AI-assisted business operations
     </text>
-
   </g>
 
 
   <!-- 04: SOCIAL MEDIA AUTOMATION -->
   <g transform="translate(480 194)">
+    <use href="#card"/>
 
-    <rect width="438"
-          height="150"
-          rx="14"
-          fill="url(#card-bg)"
-          stroke="#DCE5EF"
-          stroke-width="1.2"/>
-
-    <rect x="0.7" y="0.7"
-          width="436.6" height="148.6"
-          rx="13"
-          fill="none"
-          stroke="#0891B2"
-          stroke-width="1.4">
-      <animate attributeName="opacity"
-               values="0.08;0.25;0.08"
-               dur="7s"
-               begin="4.5s"
-               repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="24" y="0"
-          width="54" height="2"
-          rx="1"
-          fill="url(#accent)">
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
       <animate attributeName="x"
                values="24;360;24"
-               dur="9s"
-               begin="4.5s"
+               dur="9s" begin="4.5s"
                repeatCount="indefinite"/>
     </rect>
 
@@ -289,15 +215,11 @@
       04 / WORKFLOW AUTOMATION
     </text>
 
-    <circle cx="409" cy="30"
-            r="4"
-            fill="#0891B2">
-      <animate attributeName="opacity"
-               values="0.3;1;0.3"
-               dur="3s"
-               begin="2.25s"
-               repeatCount="indefinite"/>
-    </circle>
+    <text x="414" y="34"
+          text-anchor="end"
+          class="status">
+      IN DEVELOPMENT
+    </text>
 
     <text x="24" y="70" class="title">
       social-media-automation
@@ -310,70 +232,78 @@
     <text x="24" y="128" class="description">
       Content and operational workflows
     </text>
-
   </g>
 
 
-  <!-- 05: PERSONAL STOCK AI -->
+  <!-- 05: SKILLSATHI AI -->
   <g transform="translate(22 366)">
+    <use href="#card"/>
 
-    <rect width="896"
-          height="150"
-          rx="14"
-          fill="url(#card-bg)"
-          stroke="#DCE5EF"
-          stroke-width="1.2"/>
-
-    <rect x="0.7" y="0.7"
-          width="894.6" height="148.6"
-          rx="13"
-          fill="none"
-          stroke="#0891B2"
-          stroke-width="1.4">
-      <animate attributeName="opacity"
-               values="0.08;0.25;0.08"
-               dur="7s"
-               begin="6s"
-               repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="24" y="0"
-          width="70" height="2"
-          rx="1"
-          fill="url(#accent)">
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
       <animate attributeName="x"
-               values="24;800;24"
-               dur="11s"
-               begin="1s"
+               values="24;360;24"
+               dur="9s" begin="6s"
                repeatCount="indefinite"/>
     </rect>
 
     <text x="24" y="34" class="category">
-      05 / FINANCIAL INTELLIGENCE
+      05 / EDUCATION AI
     </text>
 
-    <circle cx="866" cy="30"
-            r="4"
-            fill="#0891B2">
-      <animate attributeName="opacity"
-               values="0.3;1;0.3"
-               dur="3s"
-               begin="3s"
+    <text x="414" y="34"
+          text-anchor="end"
+          class="completed">
+      DEVELOPMENT COMPLETE
+    </text>
+
+    <text x="24" y="70" class="title">
+      skillsathi-ai
+    </text>
+
+    <text x="24" y="104" class="description">
+      Bilingual RAG chatbot for SkillShikshya
+    </text>
+
+    <text x="24" y="128" class="description">
+      Automatic website content sync
+    </text>
+  </g>
+
+
+  <!-- 06: PERSONAL STOCK AI -->
+  <g transform="translate(480 366)">
+    <use href="#card"/>
+
+    <rect x="24" y="0" width="54" height="2"
+          rx="1" fill="url(#accent)">
+      <animate attributeName="x"
+               values="24;360;24"
+               dur="9s" begin="7.5s"
                repeatCount="indefinite"/>
-    </circle>
+    </rect>
+
+    <text x="24" y="34" class="category">
+      06 / FINANCIAL INTELLIGENCE
+    </text>
+
+    <text x="414" y="34"
+          text-anchor="end"
+          class="status">
+      IN DEVELOPMENT
+    </text>
 
     <text x="24" y="70" class="title">
       personal-stock-ai
     </text>
 
     <text x="24" y="104" class="description">
-      AI-assisted stock analysis and market research
+      AI-assisted stock analysis
     </text>
 
     <text x="24" y="128" class="description">
-      Financial data exploration · Intelligent insights
+      Financial data exploration and insights
     </text>
-
   </g>
 
 </svg>
