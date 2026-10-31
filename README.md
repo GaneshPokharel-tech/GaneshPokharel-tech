@@ -102,29 +102,49 @@ I develop LLM-powered applications, advanced retrieval systems, and AI agent wor
 
 ---
 
-## Technical Labs & Experiments
 
-Alongside product development, I build technical experiments to strengthen my understanding of machine learning, LLM engineering, retrieval systems, and AI agents.
+<h2 align="center">Technical Labs & Experiments</h2>
 
-These repositories document my hands-on implementations and learning process.
+<p align="center">
+  Hands-on implementations exploring machine learning,
+  retrieval systems, AI agents, and applied Python development.
+</p>
 
-**Retrieval & LLM Systems**
+<p align="center">
+  <img
+    src="./labs-overview.svg"
+    width="940"
+    alt="Technical Labs and Experiments"
+  />
+</p>
+
+<details>
+<summary><b>Explore repositories and source code</b></summary>
+
+### Retrieval & RAG
+
 - [ragtrust-lab](https://github.com/GaneshPokharel-tech/ragtrust-lab)
 
-**AI Agents & Tool Integration**
+### AI Agents & MCP
+
 - [multi-mcp-agent](https://github.com/GaneshPokharel-tech/multi-mcp-agent)
 - [crewai-code-reviewer](https://github.com/GaneshPokharel-tech/crewai-code-reviewer)
 - [api-tool-agent](https://github.com/GaneshPokharel-tech/api-tool-agent)
 
-**Machine Learning & Applied Data Science**
+### Machine Learning
+
 - [ieee-cis-fraud-detection](https://github.com/GaneshPokharel-tech/ieee-cis-fraud-detection)
 - [email-spam-detection](https://github.com/GaneshPokharel-tech/email-spam-detection)
 
-**Applied Python & Data Applications**
+### Applied Data Applications
+
 - [flooriq-nepal](https://github.com/GaneshPokharel-tech/flooriq-nepal)
 - [kalimati-saathi](https://github.com/GaneshPokharel-tech/kalimati-saathi)
 
+</details>
+
 ---
+
 
 ## Technologies & Tools
 
