@@ -1,174 +1,168 @@
 
-<!-- GitHub Profile: Ganesh Pokharel -->
-
-<h1 align="center">Hi 👋, I'm Ganesh Pokharel</h1>
-
-<h3 align="center">Python Developer | AI/ML | AI Engineer</h3>
+<!--
+  GANESH POKHAREL
+  AI Engineering Portfolio
+-->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+AI+%7C+Machine+Learning;Building+Intelligent+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Learning+%7C+Building+%7C+Innovating" alt="Typing Animation" />
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:070F1D,100:123B55&height=200&section=header&text=GANESH%20POKHAREL&fontSize=44&fontColor=F1F5F9&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20%7C%20LLM%20SYSTEMS&descSize=16&descAlignY=68&animation=fadeIn"
+    width="100%"
+    alt="Ganesh Pokharel - AI Engineer"
+  />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-pokharel-30786b192/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ganeeshpokharel/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/ganeeshpokharel/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&height=42&lines=Building+intelligent+AI+applications;Engineering+LLM+and+RAG+systems;Developing+AI+agents+and+workflows;Evaluating+models+and+AI+systems"
+    alt="AI Engineering Focus"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganesh-pokharel-30786b192/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/GaneshPokharel-tech?tab=repositories">Repositories</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/ganeeshpokharel/">Instagram</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.facebook.com/ganeeshpokharel/">Facebook</a>
 </p>
 
 ---
 
+## About
 
-## 👨‍💻 About Me
+I'm **Ganesh Pokharel**, an AI Engineering practitioner focused on developing intelligent applications using Python, Machine Learning, Deep Learning, and Large Language Models.
 
-I'm **Ganesh Pokharel**, a Python Developer and AI Engineering enthusiast with hands-on experience building Machine Learning, Deep Learning, and Generative AI applications.
+My hands-on work covers the development of LLM-powered applications, advanced retrieval systems, AI agent orchestration, model fine-tuning, and evaluation workflows.
 
-My work includes developing intelligent AI systems, implementing advanced RAG architectures, building AI agents, and integrating Large Language Models into real-world applications.
+I work across the AI development lifecycle, from data preparation and model development to API integration, application development, and deployment.
 
-- 🐍 Developed Python-based applications and AI solutions.
-- 🧠 Built and trained Machine Learning and Deep Learning models.
-- 🤖 Developed LLM-powered applications, Generative AI systems, and AI Agents.
-- 🔎 Designed and implemented RAG and Advanced RAG pipelines.
-- ⚙️ Built AI agent orchestration workflows, MCP integrations, and API-based systems.
-- 📊 Implemented model fine-tuning, LLM evaluations, and RAG evaluation pipelines.
-- 🚀 Developed and deployed AI applications using FastAPI, Streamlit, and Docker.
+**Primary focus:** AI Engineering, Generative AI, Retrieval-Augmented Generation, and Agentic AI.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## Engineering Capabilities
 
-### 🐍 Programming & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### 🧠 Machine Learning & Deep Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=for-the-badge)
-![ML Algorithms](https://img.shields.io/badge/ML_Algorithms-475569?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🤗 Transformers & Model Development
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Fine Tuning](https://img.shields.io/badge/Model_Fine--tuning-7C3AED?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0F766E?style=for-the-badge)
-
-### 🤖 Generative AI & LLM Engineering
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-334155?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge)
-
-### 📚 RAG & Knowledge Systems
-
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
-![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-4F46E5?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-0891B2?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-0F766E?style=for-the-badge)
-
-### 🤝 AI Agents & Orchestration
-
-![CrewAI](https://img.shields.io/badge/CrewAI-DC2626?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-334155?style=for-the-badge)
-![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-7C3AED?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D9488?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge)
-
-### 📊 AI Evaluation & Optimisation
-
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-475569?style=for-the-badge)
-![RAG Evaluation](https://img.shields.io/badge/RAG_Evaluation-6366F1?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0F766E?style=for-the-badge)
-
-### 🚀 Backend, AI Apps & Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Domain | Experience |
+|:---|:---|
+| **Machine Learning** | ML algorithms, model training, deep learning, and fine-tuning |
+| **LLM Engineering** | LLM applications, Transformers, Generative AI, and API integrations |
+| **Retrieval Systems** | RAG, Advanced RAG, vector databases, and retrieval pipelines |
+| **Agentic AI** | AI agents, multi-agent orchestration, LangGraph, CrewAI, and MCP |
+| **Evaluation** | LLM evaluations, RAG evaluations, and model performance assessment |
+| **Application Development** | Python APIs, FastAPI, Streamlit, and Docker-based deployment |
 
 ---
 
-## 📊 GitHub Statistics
+## Technology Stack
 
-<div align="center">
+### Programming & Data
 
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshPokharel-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
+
+### Machine Learning & Deep Learning
+
+`TensorFlow` · `PyTorch` · `Hugging Face` · `Transformers` · `ML Algorithms` · `Model Fine-tuning`
+
+### LLM & Generative AI Engineering
+
+`OpenAI API` · `LangChain` · `LangGraph` · `Large Language Models` · `Generative AI`
+
+### Retrieval & Knowledge Systems
+
+`RAG` · `Advanced RAG` · `Vector Databases` · `Retrieval Pipelines`
+
+### AI Agents & Orchestration
+
+`CrewAI` · `Model Context Protocol (MCP)` · `Agent Orchestration` · `Multi-Agent Systems`
+
+### Evaluation & Development
+
+`LLM Evals` · `RAG Evals` · `Model Evaluation` · `API Integration` · `REST APIs`
+
+### Backend & Deployment
+
+`FastAPI` · `Streamlit` · `Docker` · `Git` · `GitHub`
+
+---
+
+## AI Systems Architecture
+
+I work with AI architectures that connect data retrieval, language models, agent workflows, and application interfaces.
+
+<details>
+<summary><b>Explore an example LLM / RAG architecture</b></summary>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPokharel-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+```mermaid
+flowchart TD
+    A["Documents & Data Sources"]
+    B["Embeddings & Vector Retrieval"]
+    C["Context & RAG Pipeline"]
+    D["LLM & Agent Orchestration"]
+    E["Application & API Layer"]
+    F["Evaluation & Optimisation"]
 
-<br>
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    C -.-> F
+    D -.-> F
+    F -.-> C
+```
 
-<img src="https://streak-stats.demolab.com/?user=GaneshPokharel-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**Core components**
 
-</div>
+- **Retrieval:** Document processing, embeddings, and vector search
+- **Generation:** LLM inference and context-aware responses
+- **Agents:** Tool integration, MCP, LangChain, LangGraph, and CrewAI
+- **Evaluation:** Response quality, retrieval relevance, and model behaviour
+- **Delivery:** API development and application deployment
+
+</details>
 
 ---
 
-## 🚀 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- AI Engineering & Intelligent Applications
-- Large Language Models & Generative AI
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Multi-Agent Orchestration
-- Model Fine-tuning & Evaluation
-- AI Automation & API Development
-
----
-
-## 📂 Explore My Projects
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/GaneshPokharel-tech?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GaneshPokharel-tech&show_icons=true&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=67E8F9&bg_color=0B1625"
+    alt="GitHub Statistics"
+    width="54%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPokharel-tech&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0B1625"
+    alt="Most Used Languages"
+    width="41%"
+  />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Work & Repositories
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-pokharel-30786b192/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ganeeshpokharel/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/ganeeshpokharel/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+My repositories cover projects, experiments, and implementations involving Python, Machine Learning, Generative AI, RAG, and AI agent systems.
+
+**[Explore my repositories](https://github.com/GaneshPokharel-tech?tab=repositories)**
 
 ---
 
-<div align="center">
+## Connect
 
-### ✨ Thanks for visiting!
+I'm interested in connecting with developers and engineers working on practical AI systems, intelligent applications, and emerging AI technologies.
 
-<img src="https://komarev.com/ghpvc/?username=GaneshPokharel-tech&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+- **LinkedIn:** [Ganesh Pokharel](https://www.linkedin.com/in/ganesh-pokharel-30786b192/)
+- **GitHub:** [GaneshPokharel-tech](https://github.com/GaneshPokharel-tech)
+- **Instagram:** [@ganeeshpokharel](https://www.instagram.com/ganeeshpokharel/)
+- **Facebook:** [Ganesh Pokharel](https://www.facebook.com/ganeeshpokharel/)
 
-<br><br>
+---
 
-**Learning. Building. Innovating.**
-
-</div>
+<p align="center">
+  <sub>AI ENGINEERING · MACHINE LEARNING · INTELLIGENT SYSTEMS</sub>
+</p>
