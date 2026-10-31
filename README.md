@@ -76,6 +76,50 @@ I develop LLM-powered applications, advanced retrieval systems, and AI agent wor
 </p>
 
 
+---
+
+## Current Engineering Work
+
+I am actively developing AI-powered products and automation systems, with a focus on agentic workflows, intelligent decision support, and practical software engineering.
+
+The following projects are private and currently in development. Descriptions highlight their engineering scope without exposing unreleased implementation details.
+
+| Project | Engineering Focus |
+| :--- | :--- |
+| **qaops-agent** | An agentic quality engineering platform focused on AI-assisted test generation, API execution, regression detection, and QA automation. |
+| **social-media-automation** | An automation system focused on improving and streamlining social media workflows. |
+| **evidhara** | A legal intelligence system exploring source-grounded analysis of legal information, precedents, and evidence. |
+| **personal-stock-ai** | A personal AI project focused on stock market analysis and financial data intelligence. |
+| **Givanta** | A multi-tenant SaaS application focused on AI-assisted lead management and business workflows. |
+
+> **Development status:** Private repositories · Active development
+
+---
+
+## Technical Labs & Experiments
+
+Alongside product development, I build technical experiments to strengthen my understanding of machine learning, LLM engineering, retrieval systems, and AI agents.
+
+These repositories document my hands-on implementations and learning process.
+
+**Retrieval & LLM Systems**
+- [ragtrust-lab](https://github.com/GaneshPokharel-tech/ragtrust-lab)
+
+**AI Agents & Tool Integration**
+- [multi-mcp-agent](https://github.com/GaneshPokharel-tech/multi-mcp-agent)
+- [crewai-code-reviewer](https://github.com/GaneshPokharel-tech/crewai-code-reviewer)
+- [api-tool-agent](https://github.com/GaneshPokharel-tech/api-tool-agent)
+
+**Machine Learning & Applied Data Science**
+- [ieee-cis-fraud-detection](https://github.com/GaneshPokharel-tech/ieee-cis-fraud-detection)
+- [email-spam-detection](https://github.com/GaneshPokharel-tech/email-spam-detection)
+
+**Applied Python & Data Applications**
+- [flooriq-nepal](https://github.com/GaneshPokharel-tech/flooriq-nepal)
+- [kalimati-saathi](https://github.com/GaneshPokharel-tech/kalimati-saathi)
+
+---
+
 ## Technologies & Tools
 
 <p align="center">
