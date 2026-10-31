@@ -78,21 +78,27 @@ I develop LLM-powered applications, advanced retrieval systems, and AI agent wor
 
 ---
 
-## Current Engineering Work
 
-I am actively developing AI-powered products and automation systems, with a focus on agentic workflows, intelligent decision support, and practical software engineering.
+<h2 align="center">Current Engineering Work</h2>
 
-The following projects are private and currently in development. Descriptions highlight their engineering scope without exposing unreleased implementation details.
+<p align="center">
+  Building AI-powered products and intelligent automation
+  systems across multiple real-world domains.
+</p>
 
-| Project | Engineering Focus |
-| :--- | :--- |
-| **qaops-agent** | An agentic quality engineering platform focused on AI-assisted test generation, API execution, regression detection, and QA automation. |
-| **social-media-automation** | An automation system focused on improving and streamlining social media workflows. |
-| **evidhara** | A legal intelligence system exploring source-grounded analysis of legal information, precedents, and evidence. |
-| **personal-stock-ai** | A personal AI project focused on stock market analysis and financial data intelligence. |
-| **Givanta** | A multi-tenant SaaS application focused on AI-assisted lead management and business workflows. |
+<p align="center">
+  <img
+    src="./current-projects.svg"
+    width="940"
+    alt="Current AI Engineering Projects"
+  />
+</p>
 
-> **Development status:** Private repositories · Active development
+<p align="center">
+  <sub>
+    Private repositories · Active development
+  </sub>
+</p>
 
 ---
 
