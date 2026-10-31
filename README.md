@@ -1,168 +1,145 @@
 
 <!--
   GANESH POKHAREL
-  AI Engineering Portfolio
+  AI ENGINEERING PORTFOLIO
 -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:070F1D,100:123B55&height=200&section=header&text=GANESH%20POKHAREL&fontSize=44&fontColor=F1F5F9&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20%7C%20LLM%20SYSTEMS&descSize=16&descAlignY=68&animation=fadeIn"
-    width="100%"
-    alt="Ganesh Pokharel - AI Engineer"
-  />
+<div align="center">
+
+<h1>Ganesh Pokharel</h1>
+
+<p>
+  <strong>AI Engineer</strong>
+  &nbsp; | &nbsp;
+  Machine Learning
+  &nbsp; | &nbsp;
+  LLM Systems
+  &nbsp; | &nbsp;
+  Agentic AI
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&height=42&lines=Building+intelligent+AI+applications;Engineering+LLM+and+RAG+systems;Developing+AI+agents+and+workflows;Evaluating+models+and+AI+systems"
-    alt="AI Engineering Focus"
-  />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-pokharel-30786b192/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/GaneshPokharel-tech?tab=repositories">Repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/ganeeshpokharel/">Instagram</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.facebook.com/ganeeshpokharel/">Facebook</a>
-</p>
-
----
-
-## About
-
-I'm **Ganesh Pokharel**, an AI Engineering practitioner focused on developing intelligent applications using Python, Machine Learning, Deep Learning, and Large Language Models.
-
-My hands-on work covers the development of LLM-powered applications, advanced retrieval systems, AI agent orchestration, model fine-tuning, and evaluation workflows.
-
-I work across the AI development lifecycle, from data preparation and model development to API integration, application development, and deployment.
-
-**Primary focus:** AI Engineering, Generative AI, Retrieval-Augmented Generation, and Agentic AI.
-
----
-
-## Engineering Capabilities
-
-| Domain | Experience |
-|:---|:---|
-| **Machine Learning** | ML algorithms, model training, deep learning, and fine-tuning |
-| **LLM Engineering** | LLM applications, Transformers, Generative AI, and API integrations |
-| **Retrieval Systems** | RAG, Advanced RAG, vector databases, and retrieval pipelines |
-| **Agentic AI** | AI agents, multi-agent orchestration, LangGraph, CrewAI, and MCP |
-| **Evaluation** | LLM evaluations, RAG evaluations, and model performance assessment |
-| **Application Development** | Python APIs, FastAPI, Streamlit, and Docker-based deployment |
-
----
-
-## Technology Stack
-
-### Programming & Data
-
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
-
-### Machine Learning & Deep Learning
-
-`TensorFlow` · `PyTorch` · `Hugging Face` · `Transformers` · `ML Algorithms` · `Model Fine-tuning`
-
-### LLM & Generative AI Engineering
-
-`OpenAI API` · `LangChain` · `LangGraph` · `Large Language Models` · `Generative AI`
-
-### Retrieval & Knowledge Systems
-
-`RAG` · `Advanced RAG` · `Vector Databases` · `Retrieval Pipelines`
-
-### AI Agents & Orchestration
-
-`CrewAI` · `Model Context Protocol (MCP)` · `Agent Orchestration` · `Multi-Agent Systems`
-
-### Evaluation & Development
-
-`LLM Evals` · `RAG Evals` · `Model Evaluation` · `API Integration` · `REST APIs`
-
-### Backend & Deployment
-
-`FastAPI` · `Streamlit` · `Docker` · `Git` · `GitHub`
-
----
-
-## AI Systems Architecture
-
-I work with AI architectures that connect data retrieval, language models, agent workflows, and application interfaces.
-
-<details>
-<summary><b>Explore an example LLM / RAG architecture</b></summary>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=0E7490&center=true&vCenter=true&width=620&height=40&lines=Building+Intelligent+AI+Systems;Engineering+LLM+Applications;Developing+RAG+and+AI+Agents;Designing+and+Evaluating+AI+Workflows"
+  alt="AI Engineering Focus"
+/>
 
 <br>
 
-```mermaid
-flowchart TD
-    A["Documents & Data Sources"]
-    B["Embeddings & Vector Retrieval"]
-    C["Context & RAG Pipeline"]
-    D["LLM & Agent Orchestration"]
-    E["Application & API Layer"]
-    F["Evaluation & Optimisation"]
+<p>
+  <a href="https://www.linkedin.com/in/ganesh-pokharel-30786b192/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/GaneshPokharel-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="26" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ganeeshpokharel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ganeeshpokharel/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="26" alt="Facebook"/>
+  </a>
+</p>
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    C -.-> F
-    D -.-> F
-    F -.-> C
-```
+</div>
 
-**Core components**
+---
 
-- **Retrieval:** Document processing, embeddings, and vector search
-- **Generation:** LLM inference and context-aware responses
-- **Agents:** Tool integration, MCP, LangChain, LangGraph, and CrewAI
-- **Evaluation:** Response quality, retrieval relevance, and model behaviour
-- **Delivery:** API development and application deployment
+## About Me
+
+I'm **Ganesh Pokharel**, an AI Engineering practitioner with hands-on experience developing Machine Learning, Deep Learning, and Generative AI applications using Python.
+
+I design and build LLM-powered applications, advanced retrieval systems, and AI agent workflows. My experience covers model training, fine-tuning, evaluation, API integration, and application deployment.
+
+My primary focus is building practical AI systems that combine machine learning models, retrieval pipelines, and intelligent automation.
+
+---
+
+## What I Build
+
+### 01. Machine Learning & Deep Learning
+
+Developing and training Machine Learning and Deep Learning models, implementing ML algorithms, working with Transformer architectures, and fine-tuning models.
+
+### 02. LLM & Retrieval Systems
+
+Building Large Language Model applications, RAG and Advanced RAG pipelines, vector-based retrieval systems, and context-aware AI solutions.
+
+### 03. AI Agents & Orchestration
+
+Developing AI agents, multi-agent workflows, and tool integrations using LangChain, LangGraph, CrewAI, MCP, and external APIs.
+
+### 04. Evaluation & Deployment
+
+Implementing LLM and RAG evaluation workflows, evaluating model performance, and developing AI applications using FastAPI, Streamlit, and Docker.
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,git&theme=light" alt="Technical Stack"/>
+
+</div>
+
+<br>
+
+<details>
+<summary><strong>View Complete Technical Stack</strong></summary>
+
+<br>
+
+**Programming & Data Science**
+
+Python · NumPy · Pandas · Matplotlib · Scikit-learn
+
+**Machine Learning & Deep Learning**
+
+ML Algorithms · TensorFlow · PyTorch · Hugging Face · Transformers · Model Fine-tuning
+
+**Generative AI & LLM Engineering**
+
+OpenAI API · LangChain · LangGraph · Large Language Models · Generative AI
+
+**Retrieval Systems**
+
+RAG · Advanced RAG · Vector Databases · Retrieval Pipelines
+
+**AI Agents & Orchestration**
+
+CrewAI · Model Context Protocol (MCP) · Agent Orchestration · Multi-Agent Systems · API Integration
+
+**AI Evaluation**
+
+LLM Evaluations · RAG Evaluations · Model Evaluation
+
+**Backend & Deployment**
+
+FastAPI · Streamlit · Docker · REST APIs · Git · GitHub
 
 </details>
 
 ---
 
-## GitHub Activity
+## Projects & Implementations
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GaneshPokharel-tech&show_icons=true&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=67E8F9&bg_color=0B1625"
-    alt="GitHub Statistics"
-    width="54%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPokharel-tech&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0B1625"
-    alt="Most Used Languages"
-    width="41%"
-  />
-</p>
+My repositories include projects and experiments involving:
+
+- Machine Learning and Deep Learning
+- Generative AI and LLM Applications
+- Retrieval-Augmented Generation
+- AI Agents and Multi-Agent Systems
+- AI Evaluation and Model Fine-tuning
+
+**[Explore My GitHub Repositories](https://github.com/GaneshPokharel-tech?tab=repositories)**
 
 ---
 
-## Work & Repositories
+<div align="center">
 
-My repositories cover projects, experiments, and implementations involving Python, Machine Learning, Generative AI, RAG, and AI agent systems.
+<sub>AI ENGINEERING · MACHINE LEARNING · INTELLIGENT SYSTEMS</sub>
 
-**[Explore my repositories](https://github.com/GaneshPokharel-tech?tab=repositories)**
-
----
-
-## Connect
-
-I'm interested in connecting with developers and engineers working on practical AI systems, intelligent applications, and emerging AI technologies.
-
-- **LinkedIn:** [Ganesh Pokharel](https://www.linkedin.com/in/ganesh-pokharel-30786b192/)
-- **GitHub:** [GaneshPokharel-tech](https://github.com/GaneshPokharel-tech)
-- **Instagram:** [@ganeeshpokharel](https://www.instagram.com/ganeeshpokharel/)
-- **Facebook:** [Ganesh Pokharel](https://www.facebook.com/ganeeshpokharel/)
-
----
-
-<p align="center">
-  <sub>AI ENGINEERING · MACHINE LEARNING · INTELLIGENT SYSTEMS</sub>
-</p>
+</div>
