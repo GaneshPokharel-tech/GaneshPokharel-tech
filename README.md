@@ -49,46 +49,47 @@
 
 ## About Me
 
-I'm **Ganesh Pokharel**, an AI Engineering practitioner with hands-on experience developing Machine Learning, Deep Learning, and Generative AI applications using Python.
+I'm **Ganesh Pokharel**, an AI Engineering practitioner with hands-on experience building Machine Learning, Deep Learning, and Generative AI applications using Python.
 
-I design and build LLM-powered applications, advanced retrieval systems, and AI agent workflows. My experience covers model training, fine-tuning, evaluation, API integration, and application deployment.
+I develop LLM-powered applications, advanced retrieval systems, and AI agent workflows. My work covers model development, fine-tuning, evaluation, API integration, and application deployment.
 
-My primary focus is building practical AI systems that combine machine learning models, retrieval pipelines, and intelligent automation.
+<p align="center">
+  <img src="./ai-systems.png" width="850" alt="AI Systems Engineering Pencil Sketch"/>
+</p>
 
 ---
 
-## What I Build
+## Engineering Focus
 
-### 01. Machine Learning & Deep Learning
+### 01 / Machine Learning & Deep Learning
 
-Developing and training Machine Learning and Deep Learning models, implementing ML algorithms, working with Transformer architectures, and fine-tuning models.
+Developing and training ML/DL models, implementing machine learning algorithms, working with Transformer architectures, and fine-tuning models.
 
-### 02. LLM & Retrieval Systems
+### 02 / LLM & Retrieval Systems
 
-Building Large Language Model applications, RAG and Advanced RAG pipelines, vector-based retrieval systems, and context-aware AI solutions.
+Building LLM-powered applications, RAG and Advanced RAG pipelines, vector-based retrieval systems, and context-aware AI solutions.
 
-### 03. AI Agents & Orchestration
+### 03 / Agentic AI & Orchestration
 
 Developing AI agents, multi-agent workflows, and tool integrations using LangChain, LangGraph, CrewAI, MCP, and external APIs.
 
-### 04. Evaluation & Deployment
+### 04 / AI Evaluation & Deployment
 
-Implementing LLM and RAG evaluation workflows, evaluating model performance, and developing AI applications using FastAPI, Streamlit, and Docker.
+Implementing LLM and RAG evaluation workflows, evaluating model performance, and deploying AI applications using FastAPI, Streamlit, and Docker.
 
 ---
 
 ## Technologies & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,git&theme=light" alt="Technical Stack"/>
-
-</div>
-
-<br>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,git&theme=light"
+    alt="Core Technologies"
+  />
+</p>
 
 <details>
-<summary><strong>View Complete Technical Stack</strong></summary>
+<summary><strong>Explore My Complete Technical Stack</strong></summary>
 
 <br>
 
@@ -104,7 +105,7 @@ ML Algorithms · TensorFlow · PyTorch · Hugging Face · Transformers · Model 
 
 OpenAI API · LangChain · LangGraph · Large Language Models · Generative AI
 
-**Retrieval Systems**
+**Retrieval & Knowledge Systems**
 
 RAG · Advanced RAG · Vector Databases · Retrieval Pipelines
 
@@ -126,13 +127,7 @@ FastAPI · Streamlit · Docker · REST APIs · Git · GitHub
 
 ## Projects & Implementations
 
-My repositories include projects and experiments involving:
-
-- Machine Learning and Deep Learning
-- Generative AI and LLM Applications
-- Retrieval-Augmented Generation
-- AI Agents and Multi-Agent Systems
-- AI Evaluation and Model Fine-tuning
+My repositories cover practical implementations and experiments across Machine Learning, Generative AI, retrieval systems, and AI agent development.
 
 **[Explore My GitHub Repositories](https://github.com/GaneshPokharel-tech?tab=repositories)**
 
