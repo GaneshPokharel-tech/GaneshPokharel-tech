@@ -59,25 +59,22 @@ I develop LLM-powered applications, advanced retrieval systems, and AI agent wor
 
 ---
 
-## Engineering Focus
+<h2 align="center">What I Build</h2>
 
-### 01 / Machine Learning & Deep Learning
+<p align="center">
+  I design and build intelligent systems across
+  machine learning, LLM engineering, agentic AI,
+  and production-ready applications.
+</p>
 
-Developing and training ML/DL models, implementing machine learning algorithms, working with Transformer architectures, and fine-tuning models.
+<p align="center">
+  <img
+    src="./engineering-focus.svg"
+    width="940"
+    alt="Animated AI Engineering Capabilities"
+  />
+</p>
 
-### 02 / LLM & Retrieval Systems
-
-Building LLM-powered applications, RAG and Advanced RAG pipelines, vector-based retrieval systems, and context-aware AI solutions.
-
-### 03 / Agentic AI & Orchestration
-
-Developing AI agents, multi-agent workflows, and tool integrations using LangChain, LangGraph, CrewAI, MCP, and external APIs.
-
-### 04 / AI Evaluation & Deployment
-
-Implementing LLM and RAG evaluation workflows, evaluating model performance, and deploying AI applications using FastAPI, Streamlit, and Docker.
-
----
 
 ## Technologies & Tools
 
