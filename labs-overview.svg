@@ -1,0 +1,293 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="940"
+     height="342"
+     viewBox="0 0 940 342"
+     role="img"
+     aria-label="Technical Labs and Experiments">
+
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFD"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 21px;
+        font-weight: 700;
+        fill: #172B45;
+      }
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        fill: #52657B;
+      }
+
+      .category {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        letter-spacing: 1.7px;
+        fill: #6E8299;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="940"
+        height="342"
+        rx="18"
+        fill="#F3F7FB"/>
+
+  <!-- Subtle grid -->
+  <path d="M0 171 H940 M235 0 V342 M470 0 V342 M705 0 V342"
+        stroke="#E2EAF3"
+        stroke-width="0.7"/>
+
+
+  <!-- 01: RAG AND KNOWLEDGE SYSTEMS -->
+  <g transform="translate(22 18)">
+
+    <rect width="438" height="148"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="0.7" y="0.7"
+          width="436.6" height="146.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="7s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="24" y="0"
+          width="54" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="24;360;24"
+               dur="9s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="24" y="33" class="category">
+      01 / RETRIEVAL
+    </text>
+
+    <circle cx="409" cy="30" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="24" y="70" class="title">
+      RAG &amp; Knowledge Systems
+    </text>
+
+    <text x="24" y="105" class="description">
+      ragtrust-lab
+    </text>
+
+    <text x="24" y="128" class="description">
+      Retrieval systems and experiments
+    </text>
+
+  </g>
+
+
+  <!-- 02: AI AGENTS AND TOOLING -->
+  <g transform="translate(480 18)">
+
+    <rect width="438" height="148"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="0.7" y="0.7"
+          width="436.6" height="146.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="7s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="24" y="0"
+          width="54" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="24;360;24"
+               dur="9s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="24" y="33" class="category">
+      02 / AGENTIC SYSTEMS
+    </text>
+
+    <circle cx="409" cy="30" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="0.75s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="24" y="70" class="title">
+      AI Agents &amp; Tooling
+    </text>
+
+    <text x="24" y="105" class="description">
+      multi-mcp-agent · crewai-code-reviewer
+    </text>
+
+    <text x="24" y="128" class="description">
+      api-tool-agent
+    </text>
+
+  </g>
+
+
+  <!-- 03: MACHINE LEARNING -->
+  <g transform="translate(22 176)">
+
+    <rect width="438" height="148"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="0.7" y="0.7"
+          width="436.6" height="146.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="7s"
+               begin="3s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="24" y="0"
+          width="54" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="24;360;24"
+               dur="9s"
+               begin="3s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="24" y="33" class="category">
+      03 / MODEL DEVELOPMENT
+    </text>
+
+    <circle cx="409" cy="30" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="24" y="70" class="title">
+      Machine Learning
+    </text>
+
+    <text x="24" y="105" class="description">
+      ieee-cis-fraud-detection
+    </text>
+
+    <text x="24" y="128" class="description">
+      email-spam-detection
+    </text>
+
+  </g>
+
+
+  <!-- 04: APPLIED DATA SYSTEMS -->
+  <g transform="translate(480 176)">
+
+    <rect width="438" height="148"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="0.7" y="0.7"
+          width="436.6" height="146.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="7s"
+               begin="4.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="24" y="0"
+          width="54" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="24;360;24"
+               dur="9s"
+               begin="4.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="24" y="33" class="category">
+      04 / APPLIED PYTHON
+    </text>
+
+    <circle cx="409" cy="30" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="2.25s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="24" y="70" class="title">
+      Data-driven Applications
+    </text>
+
+    <text x="24" y="105" class="description">
+      flooriq-nepal · kalimati-saathi
+    </text>
+
+    <text x="24" y="128" class="description">
+      Data pipelines and Python applications
+    </text>
+
+  </g>
+
+</svg>
