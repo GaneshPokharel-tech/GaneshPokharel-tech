@@ -1,0 +1,282 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="940"
+     height="414"
+     viewBox="0 0 940 414"
+     role="img"
+     aria-label="Ganesh Pokharel AI Engineering Capabilities">
+
+  <defs>
+    <!-- Soft white card gradient -->
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFD"/>
+    </linearGradient>
+
+    <!-- Subtle cyan-to-blue accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 21px;
+        font-weight: 700;
+        fill: #172B45;
+      }
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        fill: #52657B;
+      }
+
+      .number {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        letter-spacing: 2px;
+        fill: #6E8299;
+      }
+    </style>
+  </defs>
+
+  <!-- Main background -->
+  <rect width="940"
+        height="414"
+        rx="18"
+        fill="#F3F7FB"/>
+
+  <!-- Background grid -->
+  <path d="M0 103.5 H940 M0 207 H940 M0 310.5 H940"
+        stroke="#E2EAF3"
+        stroke-width="0.7"
+        opacity="0.7"/>
+
+  <path d="M235 0 V414 M470 0 V414 M705 0 V414"
+        stroke="#E2EAF3"
+        stroke-width="0.7"
+        opacity="0.7"/>
+
+
+  <!-- CARD 01: MODEL INTELLIGENCE -->
+  <g>
+    <rect x="22" y="22"
+          width="438" height="174"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="22.7" y="22.7"
+          width="436.6" height="172.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="6s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="45" y="22"
+          width="70" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="45;363;45"
+               dur="7s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="48" y="62" class="number">01 / INTELLIGENCE</text>
+
+    <circle cx="419" cy="56" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="0s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="48" y="103" class="title">Model Intelligence</text>
+
+    <text x="48" y="137" class="description">
+      Machine Learning and Deep Learning
+    </text>
+
+    <text x="48" y="161" class="description">
+      Transformers · Training · Fine-tuning
+    </text>
+  </g>
+
+
+  <!-- CARD 02: LLM AND KNOWLEDGE SYSTEMS -->
+  <g>
+    <rect x="480" y="22"
+          width="438" height="174"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="480.7" y="22.7"
+          width="436.6" height="172.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="6s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="503" y="22"
+          width="70" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="503;821;503"
+               dur="7s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="506" y="62" class="number">02 / RETRIEVAL</text>
+
+    <circle cx="877" cy="56" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="0.75s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="506" y="103" class="title">LLM &amp; Knowledge Systems</text>
+
+    <text x="506" y="137" class="description">
+      LLM Applications · RAG · Advanced RAG
+    </text>
+
+    <text x="506" y="161" class="description">
+      Vector Databases · Retrieval Pipelines
+    </text>
+  </g>
+
+
+  <!-- CARD 03: AGENTIC AI -->
+  <g>
+    <rect x="22" y="218"
+          width="438" height="174"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="22.7" y="218.7"
+          width="436.6" height="172.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="6s"
+               begin="3s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="45" y="218"
+          width="70" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="45;363;45"
+               dur="7s"
+               begin="3s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="48" y="258" class="number">03 / AGENTIC SYSTEMS</text>
+
+    <circle cx="419" cy="252" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="48" y="299" class="title">Agentic AI</text>
+
+    <text x="48" y="333" class="description">
+      AI Agents · Multi-agent Orchestration
+    </text>
+
+    <text x="48" y="357" class="description">
+      LangChain · LangGraph · CrewAI · MCP
+    </text>
+  </g>
+
+
+  <!-- CARD 04: EVALUATION AND DEPLOYMENT -->
+  <g>
+    <rect x="480" y="218"
+          width="438" height="174"
+          rx="14"
+          fill="url(#card-bg)"
+          stroke="#DCE5EF"
+          stroke-width="1.2"/>
+
+    <rect x="480.7" y="218.7"
+          width="436.6" height="172.6"
+          rx="13"
+          fill="none"
+          stroke="#0891B2"
+          stroke-width="1.4">
+      <animate attributeName="opacity"
+               values="0.08;0.25;0.08"
+               dur="6s"
+               begin="4.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="503" y="218"
+          width="70" height="2"
+          rx="1"
+          fill="url(#accent)">
+      <animate attributeName="x"
+               values="503;821;503"
+               dur="7s"
+               begin="4.5s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <text x="506" y="258" class="number">04 / PRODUCTION</text>
+
+    <circle cx="877" cy="252" r="4" fill="#0891B2">
+      <animate attributeName="opacity"
+               values="0.3;1;0.3"
+               dur="3s"
+               begin="2.25s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <text x="506" y="299" class="title">Evaluation &amp; Deployment</text>
+
+    <text x="506" y="333" class="description">
+      LLM Evals · RAG Evals · Model Evaluation
+    </text>
+
+    <text x="506" y="357" class="description">
+      FastAPI · Streamlit · Docker · REST APIs
+    </text>
+  </g>
+
+</svg>
